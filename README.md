@@ -9,7 +9,7 @@
   </h3>   
                              
   
-<details>
+
    <summary>Github Stats of me:</summary>
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=1Benito11&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
@@ -17,7 +17,7 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Benito11&layout=compact&theme=radical" width="350" height="250" ></a>
 
 </div>
-</details> 
+
  
 
  
