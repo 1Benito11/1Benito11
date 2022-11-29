@@ -43,7 +43,5 @@ O mnie
 
 <br><br>
 
-
-----------
 Credit: [IsratIJK](https://github.com/IsratIJK)
 
