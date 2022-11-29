@@ -34,7 +34,7 @@ O mnie
 <br> <br>
 🌟 DEJ MI GWIAZDKI 🌟
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1Benito11" alt="1Benito11" /></p>
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=1Benito11&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)" alt="1Benito11" /></p>
 
 </div>
 
