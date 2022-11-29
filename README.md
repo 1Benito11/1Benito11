@@ -34,7 +34,7 @@ O mnie
 <br> <br>
 🌟 DEJ MI GWIAZDKI 🌟
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IsratIJK" alt="IsratIJK" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1Benito11" alt="1Benito11" /></p>
 
 </div>
 
