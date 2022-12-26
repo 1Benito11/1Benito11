@@ -20,7 +20,7 @@
  
 O mnie  
 
-- Chodze do szkoły technicznej na profilu programisty 💀💀💀. Moim hobby jest spanie i elektromechanika (Arduino i inne tego typu). Ogólnie to słaby xd.
+- Chodze do szkoły technicznej na profilu programisty 💀💀💀. Moim hobby jest spanie i elektromechanika (Arduino i inne tego typu). Ogólnie to słaby jestem xd. Nie polecam patrzenia na kod, można dostać porażenia mózgu.
 
 </div>
 
