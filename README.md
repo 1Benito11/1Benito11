@@ -33,7 +33,8 @@ O mnie
 
 <br> <br>
 🌟 MOJ STREAK 🌟
-
+  <small> prawie zawsze jest 0 </small>
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=1Benito11&theme=dark&date_format=j%20M%5B%20Y%5D" alt="1Benito11" /></p>
 
 </div>
